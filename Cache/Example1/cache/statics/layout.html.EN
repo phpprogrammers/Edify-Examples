@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		[[[header.html]]]
+	</head>
+	<body>
+<h1>Welcome [YOURNAME] current time [CURRENT_TIME]</h1>
+<h2>This page was cached at [TIMESTAMP]</h2>
+		<nav>[[[leftnav.html]]]</nav>
+		<div id='farright'>[[[farright.html]]]</div>
+	</body>
+</html>
